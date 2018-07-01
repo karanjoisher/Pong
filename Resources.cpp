@@ -23,20 +23,20 @@ sf::SoundBuffer Resources::wallHitBuffer;
 sf::SoundBuffer Resources::paddleHitBuffer;
 sf::SoundBuffer Resources::playerMissBuffer;
 
-std::string Resources::blueUITexturePath = "D:/workspace/Pong/Pong/res/textures/blueSheet.png";
-std::string Resources::arcadeFontPath = "D:/workspace/Pong/Pong/res/fonts/ARCADECLASSIC.ttf";
-std::string Resources::kenVectorFontPath = "D:/workspace/Pong/Pong/res/fonts/font.ttf";
-std::string Resources::paddleTexturePath = "D:/workspace/Pong/Pong/res/textures/paddle.png";
-std::string Resources::fieldTexturePath = "D:/workspace/Pong/Pong/res/textures/field.png";
-std::string Resources::mouseOverSoundPath = "D:/workspace/Pong/Pong/res/sounds/mouseOver.ogg";
-std::string Resources::homeScreenSoundPath = "D:/workspace/Pong/Pong/res/sounds/homeScreenMusic.wav";
-std::string Resources::mouseClickSoundPath = "D:/workspace/Pong/Pong/res/sounds/switch3.ogg";
-std::string Resources::backgroundTexturePath = "D:/workspace/Pong/Pong/res/textures/background.png";
-std::string Resources::greenUITexturePath = "D:/workspace/Pong/Pong/res/textures/greenSheet.png";
-std::string Resources::ballTexturePath = "D:/workspace/Pong/Pong/res/textures/ball.png";
-std::string Resources::wallHitSoundPath = "D:/workspace/Pong/Pong/res/sounds/wallHit.wav";
-std::string Resources::paddleHitSoundPath = "D:/workspace/Pong/Pong/res/sounds/paddleHit.wav";
-std::string Resources::playerMissSoundPath = "D:/workspace/Pong/Pong/res/sounds/playerMiss.wav";
+std::string Resources::blueUITexturePath = "W:/Pong/Pong/res/textures/blueSheet.png";
+std::string Resources::arcadeFontPath = "W:/Pong/Pong/res/fonts/ARCADECLASSIC.ttf";
+std::string Resources::kenVectorFontPath = "W:/Pong/Pong/res/fonts/font.ttf";
+std::string Resources::paddleTexturePath = "W:/Pong/Pong/res/textures/paddle.png";
+std::string Resources::fieldTexturePath = "W:/Pong/Pong/res/textures/field.png";
+std::string Resources::mouseOverSoundPath = "W:/Pong/Pong/res/sounds/mouseOver.ogg";
+std::string Resources::homeScreenSoundPath = "W:/Pong/Pong/res/sounds/homeScreenMusic.wav";
+std::string Resources::mouseClickSoundPath = "W:/Pong/Pong/res/sounds/switch3.ogg";
+std::string Resources::backgroundTexturePath = "W:/Pong/Pong/res/textures/background.png";
+std::string Resources::greenUITexturePath = "W:/Pong/Pong/res/textures/greenSheet.png";
+std::string Resources::ballTexturePath = "W:/Pong/Pong/res/textures/ball.png";
+std::string Resources::wallHitSoundPath = "W:/Pong/Pong/res/sounds/wallHit.wav";
+std::string Resources::paddleHitSoundPath = "W:/Pong/Pong/res/sounds/paddleHit.wav";
+std::string Resources::playerMissSoundPath = "W:/Pong/Pong/res/sounds/playerMiss.wav";
 
 
 sf::Sprite Resources::paddleSprite;
